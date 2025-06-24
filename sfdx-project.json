@@ -1,12 +1,20 @@
 {
   "packageDirectories": [
     {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "Apex-Promisify",
+      "versionDescription": ""
     }
   ],
   "name": "Apex-Promisify",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "62.0"
+  "sourceApiVersion": "62.0",
+  "packageAliases": {
+    "Apex-Promisify": "0HoJ9000000XZAlKAO",
+    "Apex-Promisify@0.1.0-RELEASED": "04tJ9000000kteXIAQ"
+  }
 }

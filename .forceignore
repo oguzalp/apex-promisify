@@ -3,6 +3,7 @@
 #
 
 package.xml
+**/PromisifySample.cls*
 
 # LWC configuration files
 **/jsconfig.json

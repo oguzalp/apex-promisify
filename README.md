@@ -22,6 +22,10 @@ Deploy the Promisify.cls and PromisifyTest.cls files to your Salesforce org usin
 sf project deploy start -d force-app/main/default/classes
 ```
 
+### Package Installation 
+
+[![Deploy to Salesforce](assets/deploy-to-salesforce.png)](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tJ9000000kteXIAQ)
+
 ## Quick Start
 
 ### Basic Usage
